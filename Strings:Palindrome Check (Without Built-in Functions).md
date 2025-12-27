@@ -27,4 +27,4 @@ else:
 ![WhatsApp Image 2025-12-27 at 10 47 22 PM](https://github.com/user-attachments/assets/2816eb7e-8602-46b9-a8e2-495e9e1cd044)
 
 ## Result
-Thus the program has been successfully executed.
+Thus the  given program is verified and executed successfully.
